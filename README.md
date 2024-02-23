@@ -6,8 +6,10 @@ Input Size : 1 <= N <= 1000
 Sample Testcase :
 INPUT
 3
+
 1 1 0
 0 0 0
 0 1 0
+
 OUTPUT
 1
